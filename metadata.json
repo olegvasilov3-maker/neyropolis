@@ -1,0 +1,6 @@
+{
+  "name": "Нейрополис — Claude + ChatGPT на максимум",
+  "description": "Официальная платформа флагманского курса Юлии Голыгиной по нейросетям Claude и ChatGPT: интерактивный город Нейрополис, модули, агенты, вайбкодинг и тарифы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
